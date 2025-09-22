@@ -2,7 +2,6 @@
 
 [![Github All Releases](https://img.shields.io/github/downloads/fknMega/Auto-doxxing-tool/total.svg)]()
 
-### please use for discord https://namedc.org
 
 ### Using a new method I made to get full address of any discord & instagram acc
 
