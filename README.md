@@ -1,6 +1,6 @@
 # AutoDox Tool - [Download .exe here]()
 
-[![Github All Releases](https://img.shields.io/github/downloads/fknMega/Auto-doxxing-tool/total.svg)]()
+
 
 
 ### Using a new method I made to get full address of any discord & instagram acc
